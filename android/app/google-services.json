@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629128856114",
+    "project_id": "dragonmangas-b05bc",
+    "storage_bucket": "dragonmangas-b05bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629128856114:android:b741a3875584632297b22b",
+        "android_client_info": {
+          "package_name": "com.nasoft.dragon_mangas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629128856114-mfentcqhb928dnp6t31isi9muk5f36ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_8WRBDAWJLwU-SUHq1uJ7XebF-VAGis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629128856114-mfentcqhb928dnp6t31isi9muk5f36ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
